@@ -614,10 +614,47 @@ html[data-theme="dark"] body{
   </div>
 </section>
 
+<!-- SELECTED WORK -->
+<section class="block" id="work">
+<div class="wrap">
+<div class="kicker rv"><span class="no">03</span><h2 class="disp">Selected <span class="serif">work</span></h2></div>
+<p class="rec-intro rv">Most of what I build ships behind private company repos. Here's what I actually delivered in 2026 — independently analysed across nine repositories by <b>Paxel (YC)</b>, which read the pattern as <b>"The Architect"</b>: architecture-first, orchestrating multiple AI coding agents while holding the line on verification and product boundaries.</p>
+<div class="awgrid rv">
+<div class="aw"><div class="aw-top"><span class="aw-yr">2026</span><span class="aw-for">1,000+ commits</span></div><h3>Orio — UGC &amp; remix platform</h3><p>The user-generated-content layer behind Orio: remix studio, an idempotent activation-credit and entitlement system, content-brand and IP-safety review gates, host-split studio routing and CI.</p></div>
+<div class="aw"><div class="aw-top"><span class="aw-yr">2026</span><span class="aw-for me">7 agents · live</span></div><h3>Orio — playable-game generation</h3><p>The core Orio app: GameHarness playable-game generation, billing and rate-limits, an in-browser Babylon.js editor, and 4D / scene-generation experiments — run across up to seven AI agents at once.</p></div>
+<div class="aw"><div class="aw-top"><span class="aw-yr">2026</span><span class="aw-for">GKE · Vertex · GPU</span></div><h3>SAM3D — 3D segmentation infra</h3><p>Production 3D-object segmentation: GPU serving on GKE with Pub/Sub queueing, SAM3-vs-SAM2 benchmarking with fallback, and mesh-decode verification against live infrastructure.</p></div>
+<div class="aw"><div class="aw-top"><span class="aw-yr">2026</span><span class="aw-for">mesh caching</span></div><h3>Generative 3D pipeline</h3><p>A 3D / animation generation pipeline with throughput controls and generalised mesh-asset caching, validated for dev-only concurrency and routing before promotion.</p></div>
+<div class="aw"><div class="aw-top"><span class="aw-yr">2026</span><span class="aw-for">Vertex inference</span></div><h3>PBR texturing service</h3><p>Physically-based generative texturing served on Vertex, with careful deployment hygiene — dead paths removed, live inference preserved, reviews gated.</p></div>
+<div class="aw"><div class="aw-top"><span class="aw-yr">2026</span><span class="aw-for">IaC · diagrams</span></div><h3>Cloud infrastructure</h3><p>Terraform modules and infrastructure for the platform — Secret Manager, Verified Permissions, Cloud Run — documented with architecture and runtime diagrams.</p></div>
+</div>
+</div>
+</section>
+
+<!-- ARCHITECTURE -->
+<section class="block" id="architecture" style="padding-top:0">
+<div class="wrap">
+<div class="kicker rv"><span class="no">04</span><h2 class="disp">How I <span class="serif">build</span></h2></div>
+<div class="about rv">
+<div class="rv">
+<p class="big">I direct AI coding agents as <span class="serif">execution engines</span> — while keeping architecture, verification and product boundaries firmly in human hands.</p>
+<div class="tags">
+<span class="tag">Generative AI</span><span class="tag">Agentic pipelines</span><span class="tag">Computer Vision</span><span class="tag">Real-time 3D</span><span class="tag">Babylon.js</span><span class="tag">GKE</span><span class="tag">Vertex AI</span><span class="tag">GPU serving</span><span class="tag">USD</span><span class="tag">Unreal</span>
+</div>
+</div>
+<div class="rv">
+<p>The Orio stack turns a plain-language prompt into a playable, multiplayer 3D world: <b>interpretation → generation → scene assembly → deterministic physics → rendering → real-time multiplayer</b>. The hard part was never generating objects — it was generating physics and context, so a chair lands on the floor facing the fire instead of hovering above it.</p>
+<p>Underneath sits production cloud-AI infrastructure — GPU serving on GKE, Vertex inference, Pub/Sub queueing — with verification gates, idempotent state and disciplined PR hygiene, so non-deterministic output stays shippable.</p>
+<p>Deep dives: <a class="v-link" href="https://amitpate.substack.com/p/deep-dive-why-generative-video-is" target="_blank" rel="noopener">Why generative video is the wrong architecture for game dev →</a></p>
+<p><a class="v-link" href="https://amitpate.substack.com/p/2026-dreams-just-got-physics" target="_blank" rel="noopener">2026: Dreams just got physics →</a></p>
+</div>
+</div>
+</div>
+</section>
+
 <!-- RECOGNITION -->
 <section class="block" id="recognition">
   <div class="wrap">
-    <div class="kicker rv"><span class="no">03</span><h2 class="disp">Recognition</h2></div>
+    <div class="kicker rv"><span class="no">05</span><h2 class="disp">Recognition</h2></div>
     <p class="rec-intro rv">From <b>two Gold Lions at Cannes</b> to <b>SXSW Best in Show</b> — international honours earned <b>by the founder and the companies he's built</b>, across AI, animation, entertainment, film and sports technology. One track record, shown together.</p>
     <div class="cannes-feature glass rv">
       <span class="cgold" role="img" aria-label="Cannes Lions Gold Lion trophy" style="height:clamp(82px,13vw,146px);width:clamp(112px,18vw,200px);flex-shrink:0"></span>
@@ -749,7 +786,7 @@ html[data-theme="dark"] body{
 <!-- NEWS -->
 <section class="block" id="news">
   <div class="wrap">
-    <div class="kicker rv"><span class="no">04</span><h2 class="disp">In the <span class="serif">press</span></h2></div>
+    <div class="kicker rv"><span class="no">06</span><h2 class="disp">In the <span class="serif">press</span></h2></div>
     <div class="news-list rv">
       <a class="news-row" href="https://www.siliconhillsnews.com/2023/03/17/pentopix-wins-best-in-show-and-entertainment-category-at-sxsw-pitch-awards-2023-for-ai-assisted-3d-animation-platform/" target="_blank" rel="noopener">
         <span class="news-src">SiliconHills</span><span class="news-title">PentoPix Wins Best in Show &amp; Entertainment Category at SXSW Pitch Awards 2023</span><span class="news-arrow">↗</span></a>
@@ -774,7 +811,7 @@ html[data-theme="dark"] body{
 <!-- SPEAKING -->
 <section class="block" id="speaking" style="padding-top:0">
   <div class="wrap">
-    <div class="kicker rv"><span class="no">05</span><h2 class="disp">On <span class="serif">stage</span></h2></div>
+    <div class="kicker rv"><span class="no">07</span><h2 class="disp">On <span class="serif">stage</span></h2></div>
     <div class="speak-wrap rv">
       <div class="speak"><div class="s-name">SXSW</div><div class="s-meta">Austin — Pitch winner &amp; panel</div></div>
       <div class="speak"><div class="s-name">TechCrunch Disrupt</div><div class="s-meta">San Francisco — Battlefield 200</div></div>
@@ -788,7 +825,7 @@ html[data-theme="dark"] body{
 <!-- BOOK -->
 <section class="block" id="book" style="padding-top:0">
   <div class="wrap">
-    <div class="kicker rv"><span class="no">06</span><h2 class="disp">Book <span class="serif">me</span></h2></div>
+    <div class="kicker rv"><span class="no">08</span><h2 class="disp">Book <span class="serif">me</span></h2></div>
     <p class="rec-intro rv">Speaking, mentoring, or building hands-on — choose what you need and send a short note. It lands straight in my inbox.</p>
     <div class="book-grid rv">
       <div class="book-opts">
