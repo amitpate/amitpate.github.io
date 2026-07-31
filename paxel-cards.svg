@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 566" width="1300" height="566" font-family="system-ui,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 496" width="1300" height="496" font-family="system-ui,sans-serif">
 <defs>
   <linearGradient id="oTop" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0" stop-color="#FF6600" stop-opacity="1"/>
@@ -14,9 +14,9 @@
   </pattern>
   <clipPath id="hdr"><rect x="0" y="0" width="236" height="150"/></clipPath>
 </defs>
-<rect width="1300" height="566" fill="none"/>
-<g transform="translate(20,72) rotate(-3.0,118.0,215.0)">
-<rect x="0" y="0" width="236" height="430" fill="#ffffff"/>
+<rect width="1300" height="496" fill="none"/>
+<g transform="translate(20,52) rotate(-3.0,118.0,200.0)">
+<rect x="0" y="0" width="236" height="400" fill="#ffffff"/>
 <g clip-path="url(#hdr)">
 <rect x="0" y="0" width="236" height="150" fill="url(#dots)"/>
 <rect x="0" y="0" width="236" height="150" fill="url(#oTop)"/>
@@ -30,11 +30,16 @@
 <text x="18" y="188" font-family="'Space Grotesk','DM Sans',system-ui,sans-serif" font-size="12" letter-spacing="-0.1" fill="#FF6600">Which kind of builder are you?</text>
 <text x="18" y="216" font-family="'DM Sans',system-ui,sans-serif" font-size="20" font-weight="700" fill="#111111">The Architect</text>
 <text x="18" y="249" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">100% of sessions include</text>
-<text x="18" y="268" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">architecture discussions.</text>
-<rect x="0.75" y="0.75" width="234.5" height="428.5" fill="none" stroke="#FF6600" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="18" y="268" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">architecture discussions —</text>
+<text x="18" y="287" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">plans the system first,</text>
+<text x="18" y="306" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">directs the agents, and</text>
+<text x="18" y="325" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">holds the line on</text>
+<text x="18" y="344" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">verification and product</text>
+<text x="18" y="363" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">boundaries.</text>
+<rect x="0.75" y="0.75" width="234.5" height="398.5" fill="none" stroke="#FF6600" stroke-width="1.5" stroke-dasharray="5 3"/>
 </g>
-<g transform="translate(272,40) rotate(1.6,118.0,215.0)">
-<rect x="0" y="0" width="236" height="430" fill="#ffffff"/>
+<g transform="translate(272,20) rotate(1.6,118.0,200.0)">
+<rect x="0" y="0" width="236" height="400" fill="#ffffff"/>
 <g clip-path="url(#hdr)">
 <rect x="0" y="0" width="236" height="150" fill="url(#dots)"/>
 <rect x="0" y="0" width="236" height="150" fill="url(#oTop)"/>
@@ -47,13 +52,15 @@
 <circle cx="156" cy="30" r="6" fill="#ffffff"/>
 <text x="18" y="188" font-family="'Space Grotesk','DM Sans',system-ui,sans-serif" font-size="12" letter-spacing="-0.1" fill="#FF6600">How many agents at once?</text>
 <text x="18" y="216" font-family="'DM Sans',system-ui,sans-serif" font-size="20" font-weight="700" fill="#111111">Up to 7</text>
-<text x="18" y="249" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">AI coding agents</text>
-<text x="18" y="268" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">orchestrated concurrently as</text>
-<text x="18" y="287" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">execution engines.</text>
-<rect x="0.75" y="0.75" width="234.5" height="428.5" fill="none" stroke="#FF6600" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="18" y="249" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">AI coding agents run</text>
+<text x="18" y="268" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">concurrently as execution</text>
+<text x="18" y="287" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">engines, while architecture,</text>
+<text x="18" y="306" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">review standards and product</text>
+<text x="18" y="325" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">decisions stay firmly human.</text>
+<rect x="0.75" y="0.75" width="234.5" height="398.5" fill="none" stroke="#FF6600" stroke-width="1.5" stroke-dasharray="5 3"/>
 </g>
-<g transform="translate(524,78) rotate(-1.2,118.0,215.0)">
-<rect x="0" y="0" width="236" height="430" fill="#ffffff"/>
+<g transform="translate(524,58) rotate(-1.2,118.0,200.0)">
+<rect x="0" y="0" width="236" height="400" fill="#ffffff"/>
 <g clip-path="url(#hdr)">
 <rect x="0" y="0" width="236" height="150" fill="url(#dots)"/>
 <rect x="0" y="0" width="236" height="150" fill="url(#oTop)"/>
@@ -67,11 +74,14 @@
 <text x="18" y="188" font-family="'Space Grotesk','DM Sans',system-ui,sans-serif" font-size="12" letter-spacing="-0.1" fill="#FF6600">How much did you ship?</text>
 <text x="18" y="216" font-family="'DM Sans',system-ui,sans-serif" font-size="20" font-weight="700" fill="#111111">~600K lines</text>
 <text x="18" y="249" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">~4,000 commits across 9</text>
-<text x="18" y="268" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">private repos in 2026.</text>
-<rect x="0.75" y="0.75" width="234.5" height="428.5" fill="none" stroke="#FF6600" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="18" y="268" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">private repos in 2026 — UGC</text>
+<text x="18" y="287" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">platform, playable-game</text>
+<text x="18" y="306" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">generation, 3D pipelines and</text>
+<text x="18" y="325" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">cloud infrastructure.</text>
+<rect x="0.75" y="0.75" width="234.5" height="398.5" fill="none" stroke="#FF6600" stroke-width="1.5" stroke-dasharray="5 3"/>
 </g>
-<g transform="translate(776,46) rotate(2.6,118.0,215.0)">
-<rect x="0" y="0" width="236" height="430" fill="#ffffff"/>
+<g transform="translate(776,26) rotate(2.6,118.0,200.0)">
+<rect x="0" y="0" width="236" height="400" fill="#ffffff"/>
 <g clip-path="url(#hdr)">
 <rect x="0" y="0" width="236" height="150" fill="url(#dots)"/>
 <rect x="0" y="0" width="236" height="150" fill="url(#oTop)"/>
@@ -86,12 +96,14 @@
 <text x="18" y="216" font-family="'DM Sans',system-ui,sans-serif" font-size="20" font-weight="700" fill="#111111">GKE · Vertex ·</text>
 <text x="18" y="241" font-family="'DM Sans',system-ui,sans-serif" font-size="20" font-weight="700" fill="#111111">GPU</text>
 <text x="18" y="274" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">Production cloud-AI infra:</text>
-<text x="18" y="293" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">Pub/Sub, Cloud Run, Secret</text>
-<text x="18" y="312" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">Manager.</text>
-<rect x="0.75" y="0.75" width="234.5" height="428.5" fill="none" stroke="#FF6600" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="18" y="293" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">GPU serving on GKE, Vertex</text>
+<text x="18" y="312" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">inference, Pub/Sub queueing,</text>
+<text x="18" y="331" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">Cloud Run and Secret Manager</text>
+<text x="18" y="350" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">— behind verification gates.</text>
+<rect x="0.75" y="0.75" width="234.5" height="398.5" fill="none" stroke="#FF6600" stroke-width="1.5" stroke-dasharray="5 3"/>
 </g>
-<g transform="translate(1028,70) rotate(-2.2,118.0,215.0)">
-<rect x="0" y="0" width="236" height="430" fill="#ffffff"/>
+<g transform="translate(1028,50) rotate(-2.2,118.0,200.0)">
+<rect x="0" y="0" width="236" height="400" fill="#ffffff"/>
 <g clip-path="url(#hdr)">
 <rect x="0" y="0" width="236" height="150" fill="url(#dots)"/>
 <rect x="0" y="0" width="236" height="150" fill="url(#oTop)"/>
@@ -105,9 +117,12 @@
 <text x="18" y="188" font-family="'Space Grotesk','DM Sans',system-ui,sans-serif" font-size="12" letter-spacing="-0.1" fill="#FF6600">What did you build?</text>
 <text x="18" y="216" font-family="'DM Sans',system-ui,sans-serif" font-size="20" font-weight="700" fill="#111111">Text → playable</text>
 <text x="18" y="241" font-family="'DM Sans',system-ui,sans-serif" font-size="20" font-weight="700" fill="#111111">3D</text>
-<text x="18" y="274" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">Generation, deterministic</text>
-<text x="18" y="293" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">physics, real-time</text>
-<text x="18" y="312" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">multiplayer.</text>
-<rect x="0.75" y="0.75" width="234.5" height="428.5" fill="none" stroke="#FF6600" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="18" y="274" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">Generation, scene assembly,</text>
+<text x="18" y="293" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">deterministic physics,</text>
+<text x="18" y="312" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">rendering and real-time</text>
+<text x="18" y="331" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">multiplayer — plus billing,</text>
+<text x="18" y="350" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">rate limits and IP-safety</text>
+<text x="18" y="369" font-family="'DM Sans',system-ui,sans-serif" font-size="13.5" fill="#555555">review gates.</text>
+<rect x="0.75" y="0.75" width="234.5" height="398.5" fill="none" stroke="#FF6600" stroke-width="1.5" stroke-dasharray="5 3"/>
 </g>
 </svg>
